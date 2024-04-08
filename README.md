@@ -1,0 +1,1 @@
+Currency Converter CLI is a TypeScript-based command-line tool designed to effortlessly convert between different currencies. With intuitive prompts, users can specify the currencies they wish to convert between and the amount to exchange, receiving accurate and rounded off result. Simplify currency conversion tasks with this efficient and user-friendly tool.
